@@ -63,5 +63,5 @@ def howLongCanIStayFor( classLink_, goalTime, dayOfWeek ):
       return
 
   # At this point, there are no more classes scheduled.
-  print( "AVAIL rest of day" )
+  print( "AVAIL 12:00:00" )
 
