@@ -7,8 +7,16 @@ def getClassLinks( classesToSearch ):
   i = 0
   for room in classesToSearch:
     formattedStr = ""
-    roomName = room.split( ' ' )[ 0 ]
-    roomNum = room.split( ' ' )[ 1 ]
+
+    roomName = None
+    roomNum = None
+
+    if ( len( room.split( ' ' ) ) == 3 ):
+      roomName = room.split( ' ' )[ 0 ] + "+" + room.split( ' ' )[ 1 ]
+      roomNum = room.split( ' ' )[ 2 ]
+    else:
+      roomName = room.split( ' ' )[ 0 ]
+      roomNum = room.split( ' ' )[ 1 ]
 
     # room name is 8 chars. If not enough, '+' are added
     formattedStr += roomName
