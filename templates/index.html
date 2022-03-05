@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title> Grid Search </title>
+  </head>
+
+  <body>
+    <h1> Grid Search </h1>
+
+    <input type="text" id="in-roomnm" placeholder="BOELTER 5213">
+    <input type="time" id="in-time" placeholder="12:00:00">
+    <input type="text" id="in-day" placeholder="w">
+    <br>
+    <button id="btn_submit" onclick="submit()"> Submit </button>
+  </body>
+
+</html>
+
+<script>
+  function submit() {
+    var classNm = document.getElementById("in-roomnm").value
+    var time = document.getElementById("in-time").value + ":00"
+    var day = document.getElementById("in-day").value
+  }
+</script>
