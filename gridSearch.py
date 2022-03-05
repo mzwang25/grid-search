@@ -6,6 +6,8 @@ def getClassLinks( classesToSearch ):
   # format the classes to match the grid search format
   i = 0
   for room in classesToSearch:
+    if ( len( room ) == 0 ):
+      continue
     formattedStr = ""
 
     roomName = None
@@ -93,7 +95,7 @@ def main():
   for i in range( 0, len( classLinks ) ):
     print( names[ i ] )
     print( "  -- ", end="" )
-    howLongCanIStayFor( classLinks[ i ], goalTime, dayOfWeek )
+    print( howLongCanIStayFor( classLinks[ i ], goalTime, dayOfWeek ) )
 
 if __name__ == "__main__":
   try:
