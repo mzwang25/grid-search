@@ -10,7 +10,7 @@ def filterByDayInWeek( jsonObj, day ):
 # goalTime = "H:M:S"
 # classLink = "Link of whatever is after classroom=
 
-def howLongCanIStayFor( classLink_, goalTime, dayOfWeek ):
+def howLongCanIStayFor( classLink_, goalTime, dayOfWeek, doNotPrintClassSize = False ):
   classLink = "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22W&classroom=" + classLink_
   r = requests.get( classLink )
 
@@ -19,8 +19,7 @@ def howLongCanIStayFor( classLink_, goalTime, dayOfWeek ):
     beginIndex = r.text.index( 'createFullCalendar' )
   except:
     # no calendar found
-    print( "class does not have a schedule" )
-    return
+    return( "class does not have a schedule" )
   classSchedule = r.text[ beginIndex : ]
 
   beginIndex = classSchedule.index( '[' )
@@ -36,7 +35,8 @@ def howLongCanIStayFor( classLink_, goalTime, dayOfWeek ):
   if ( len( numClasses ) == 1 ):
     numClasses = "0" + numClasses
 
-  print( numClasses + " class -- ", end="" )
+  if not doNotPrintClassSize:
+    print( numClasses + " class -- ", end="" )
 
   # making the assumption that each day's classes are orderd by strt_time
 
@@ -49,8 +49,7 @@ def howLongCanIStayFor( classLink_, goalTime, dayOfWeek ):
 
     if ( goalTime >= startTime and goalTime < endTime ):
       # class is not available
-      print( "OCCUP" )
-      return
+      return( "OCCUP" )
 
   # At this point, the class is avaible. Let's see how long you can stay.
 
@@ -59,9 +58,8 @@ def howLongCanIStayFor( classLink_, goalTime, dayOfWeek ):
     startTime = datetime.strptime( cl[ 'strt_time' ], timefmt )
 
     if ( goalTime < startTime ):
-      print( "AVAIL for", startTime - goalTime )
-      return
+      return( "AVAIL for", startTime - goalTime )
 
   # At this point, there are no more classes scheduled.
-  print( "AVAIL 12:00:00" )
+  return( "AVAIL 12:00:00" )
 

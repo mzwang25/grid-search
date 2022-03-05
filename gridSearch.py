@@ -1,6 +1,7 @@
 import sys
 from getClass import howLongCanIStayFor
 
+
 # classesToSearch is an array of class names ... will format it
 def getClassLinks( classesToSearch ):
   # format the classes to match the grid search format
@@ -93,7 +94,7 @@ def main():
   for i in range( 0, len( classLinks ) ):
     print( names[ i ] )
     print( "  -- ", end="" )
-    howLongCanIStayFor( classLinks[ i ], goalTime, dayOfWeek )
+    print( howLongCanIStayFor( classLinks[ i ], goalTime, dayOfWeek ) )
 
 if __name__ == "__main__":
   try:
