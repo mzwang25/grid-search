@@ -1,12 +1,13 @@
 import sys
 from getClass import howLongCanIStayFor
 
-
 # classesToSearch is an array of class names ... will format it
 def getClassLinks( classesToSearch ):
   # format the classes to match the grid search format
   i = 0
   for room in classesToSearch:
+    if ( len( room ) == 0 ):
+      continue
     formattedStr = ""
 
     roomName = None
