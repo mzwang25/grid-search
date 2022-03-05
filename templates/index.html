@@ -20,5 +20,7 @@
     var classNm = document.getElementById("in-roomnm").value
     var time = document.getElementById("in-time").value + ":00"
     var day = document.getElementById("in-day").value
+
+    window.location = `/submit?classname=${classNm}&time=${time}&day=${day}`
   }
 </script>
