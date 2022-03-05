@@ -1,3 +1,6 @@
+site
+https://gridsearch.herokuapp.com/
+
 example
 
 ./isAvail.sh "pab" 16:00:00 R
