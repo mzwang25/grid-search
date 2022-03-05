@@ -58,7 +58,7 @@ def howLongCanIStayFor( classLink_, goalTime, dayOfWeek, doNotPrintClassSize = F
     startTime = datetime.strptime( cl[ 'strt_time' ], timefmt )
 
     if ( goalTime < startTime ):
-      return( "AVAIL for", startTime - goalTime )
+      return( "AVAIL for " + str( startTime - goalTime ) )
 
   # At this point, there are no more classes scheduled.
   return( "AVAIL 12:00:00" )

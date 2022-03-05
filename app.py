@@ -19,7 +19,7 @@ def index():
 def submit():
   classname = request.args.get( "classname" )
   time = request.args.get( "time" )
-  day = request.args.get( "day" )
+  day = request.args.get( "day" ).capitalize()
 
   names = []
   matches = getClassNmMatches( classname )
@@ -31,7 +31,7 @@ def submit():
   outputstr = ""
   for i in range( 0, len( classLinks ) ):
     outputstr += names[ i ] + " -- "
-    outputstr += howLongCanIStayFor( matches[ i ], time, day, True )
+    outputstr += howLongCanIStayFor( classLinks[ i ], time, day, True )
     outputstr += "<br>"
   return outputstr
 
