@@ -22,6 +22,9 @@ def findOpening( classFileNm, dayOfWeek, goalTime, doNotPrintClassSize=True):
   if not doNotPrintClassSize:
     print( numClasses + " class -- ", end="" )
 
+  if len( jsonSchedule ) < 5: # Low use rooms are typically locked
+      return "OCCUP"
+
   # making the assumption that each day's classes are orderd by strt_time
 
   timefmt = "%H:%M:%S"
