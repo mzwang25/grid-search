@@ -1,5 +1,7 @@
 grid-search
 
+==========
+
 classrooms.txt		File with all classrooms
 
 findOpenings.py		Looks at class schedules under classScheduleData/
@@ -31,9 +33,12 @@ openingData/		JSON openings outputed by findOpenings.py
 
 ==========
 
-To add classrooms into classScheduleData:
+To add classrooms into classScheduleData. Whatever is in here will be
+added to the website when the command below is run:
+
 grep "PUB AFF [12]" classrooms.txt | python3 makeUrlAndPullClassData.py
 
-To generate JSON of open classrooms
-python3 findOpenings.py > openingData/openingData.json
+To generate JSON of open classrooms. This adds the classrooms above to
+the JSON so that you can search it on the website.
 
+python3 findOpenings.py > openingData/openingData.json
