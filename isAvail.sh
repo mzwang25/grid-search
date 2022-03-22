@@ -2,4 +2,4 @@
 
 cat classrooms.txt \
   | grep -i "$1" \
-  | python3 gridSearch.py $2 $3
+  | python3 gridSearch.py

@@ -1,0 +1,71 @@
+[
+ {
+  "title": "C&EE    M20     ",
+  "start": "2014-11-13T08:00:00",
+  "end": "2014-11-13T09:50:00",
+  "lecture": "LAB G001",
+  "enrollment": "Enr: 30 of 30",
+  "enroll_total": 30,
+  "enroll_capacity": 30,
+  "mult_list_flag": "y",
+  "multi_header": "Multiple-Listed Class",
+  "multi_list_classes": [
+   "Civil and Environmental Engineering (C&EE) M20 - Introduction to Computer Programming with MATLAB",
+   "Mechanical and Aerospace Engineering (MECH&AE) M20 - Introduction to Computer Programming with MATLAB"
+  ],
+  "meet_bdg": "BOELTER ",
+  "meet_rm": "  03760  ",
+  "Subj_Area": "C&EE   ",
+  "Days_in_week": "R      ",
+  "strt_time": "08:00:00",
+  "stop_time": "09:50:00",
+  "fac_capacity": "28",
+  "start_date": "9/26/1991 12:00:00 AM"
+ },
+ {
+  "title": "C&EE    M20     ",
+  "start": "2014-11-14T08:00:00",
+  "end": "2014-11-14T09:50:00",
+  "lecture": "LAB G002",
+  "enrollment": "Enr: 29 of 29",
+  "enroll_total": 29,
+  "enroll_capacity": 29,
+  "mult_list_flag": "y",
+  "multi_header": "Multiple-Listed Class",
+  "multi_list_classes": [
+   "Civil and Environmental Engineering (C&EE) M20 - Introduction to Computer Programming with MATLAB",
+   "Mechanical and Aerospace Engineering (MECH&AE) M20 - Introduction to Computer Programming with MATLAB"
+  ],
+  "meet_bdg": "BOELTER ",
+  "meet_rm": "  03760  ",
+  "Subj_Area": "C&EE   ",
+  "Days_in_week": "F      ",
+  "strt_time": "08:00:00",
+  "stop_time": "09:50:00",
+  "fac_capacity": "28",
+  "start_date": "9/26/1991 12:00:00 AM"
+ },
+ {
+  "title": "C&EE    M20     ",
+  "start": "2014-11-14T10:00:00",
+  "end": "2014-11-14T11:50:00",
+  "lecture": "LAB G003",
+  "enrollment": "Enr: 29 of 29",
+  "enroll_total": 29,
+  "enroll_capacity": 29,
+  "mult_list_flag": "y",
+  "multi_header": "Multiple-Listed Class",
+  "multi_list_classes": [
+   "Civil and Environmental Engineering (C&EE) M20 - Introduction to Computer Programming with MATLAB",
+   "Mechanical and Aerospace Engineering (MECH&AE) M20 - Introduction to Computer Programming with MATLAB"
+  ],
+  "meet_bdg": "BOELTER ",
+  "meet_rm": "  03760  ",
+  "Subj_Area": "C&EE   ",
+  "Days_in_week": "F      ",
+  "strt_time": "10:00:00",
+  "stop_time": "11:50:00",
+  "fac_capacity": "28",
+  "start_date": "9/26/1991 12:00:00 AM"
+ }
+]
