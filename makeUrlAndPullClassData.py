@@ -1,5 +1,5 @@
 import sys
-from getClass import howLongCanIStayFor
+from pullClassData import howLongCanIStayFor
 
 # classesToSearch is an array of class names ... will format it
 def getClassLinks( classesToSearch ):
@@ -80,6 +80,7 @@ def main():
   classLinks = getClassLinks( classesToSearch )
 
   for i in range( 0, len( classLinks ) ):
+    print( "Pulling " + names[ i ] )
     howLongCanIStayFor( classLinks[ i ], names[ i ] )
 
 if __name__ == "__main__":
