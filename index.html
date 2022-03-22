@@ -1,9 +1,108 @@
 <head>
-
+  <title> Grid Search </title>
 
 </head>
 
-<body>
+<body onload="fetchData()">
+  <div class="container">
+    <h1> Open Classroom Search </h1>
+    <h3 id="title"> Loading Data... </h3>
+    <div>
+      (optional: hour of day 8-17)
+      <input id="hrinput" type="number" placeholder="hr" value="8" ></input>
+    </div>
+    <div class="dayOfWeekButtons">
+      <button onclick="selectDayOfWeek('M')"> M </button>
+      <button onclick="selectDayOfWeek('T')"> T </button>
+      <button onclick="selectDayOfWeek('W')"> W </button>
+      <button onclick="selectDayOfWeek('R')"> R </button>
+      <button onclick="selectDayOfWeek('F')"> F </button>
+    </div>
 
-  Hello World!
+    <table id="dataDisplay">
+
+    </table>
+
+  </div>
 </body>
+
+<style>
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .dayOfWeekButtons {
+    border: 0;
+    background: none;
+    box-shadow: none;
+    border-radius: 0px;
+  }
+
+  .dayOfWeekButtons button {
+    width: 50px;
+    height: 50px;
+  }
+
+  #hrinput {
+    width: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+</style>
+
+<script>
+  DATA = null
+  function fetchData() {
+    fetch( './openingData/openingData.json' ).then(
+                       response => {
+                         return response.json() 
+                       }).then(
+                       data => {
+                         callback( data )
+                       })
+  }
+
+  function callback( jsonObj ) {
+    document.getElementById( "title" ).innerHTML = "Data is Loaded!";
+    DATA = jsonObj;
+  }
+
+  function selectDayOfWeek( day ) {
+    availableTimes = DATA[ day ];
+    hr = parseInt( document.getElementById( "hrinput" ).value );
+
+    if ( !hr ) {
+      hr = 8
+    }
+    if ( hr < 8 || hr > 17 ) {
+      document.getElementById( "title" ).innerHTML = "Invalid Hour";
+      return;
+    }
+    display = document.getElementById( "dataDisplay" )
+    display.innerHTML = "";
+    for ( var i = hr; i < 18; i++ ) {
+      display.innerHTML += `<br><h4> Hour ${i} </h4><br>`;
+      classrooms = availableTimes[ i ];
+
+      for ( var key in classrooms ) {
+        var htmlToAdd = `<tr> 
+                          <td> ${key} </td> 
+                          <td> ${classrooms[key]} </td> 
+                         </tr>`;
+        display.innerHTML += htmlToAdd;
+      }
+    }
+
+  }
+
+
+</script>
