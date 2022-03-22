@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
 <head>
   <title> Grid Search </title>
 
@@ -6,11 +8,8 @@
 <body onload="fetchData()">
   <div class="container">
     <h1> Open Classroom Search </h1>
-    <h3 id="title"> Loading Data... </h3>
-    <div>
-      (optional: hour of day 8-17)
-      <input id="hrinput" type="number" placeholder="hr" value="8" ></input>
-    </div>
+    <a href="https://github.com/mzwang25/gridsearch"> Github </a>
+    <h3 id="title"> </h3>
     <div class="dayOfWeekButtons">
       <button onclick="selectDayOfWeek('M')"> M </button>
       <button onclick="selectDayOfWeek('T')"> T </button>
@@ -27,6 +26,11 @@
 </body>
 
 <style>
+  h1 {
+    font-size: 5em;
+    text-align: center;
+  }
+
   .container {
     display: flex;
     flex-direction: column;
@@ -41,8 +45,9 @@
   }
 
   .dayOfWeekButtons button {
-    width: 50px;
-    height: 50px;
+    width: 10vw;
+    height: 10vw;
+    font-size: 1.5em;
   }
 
   #hrinput {
@@ -72,13 +77,13 @@
   }
 
   function callback( jsonObj ) {
-    document.getElementById( "title" ).innerHTML = "Data is Loaded!";
     DATA = jsonObj;
   }
 
   function selectDayOfWeek( day ) {
     availableTimes = DATA[ day ];
-    hr = parseInt( document.getElementById( "hrinput" ).value );
+    //hr = parseInt( document.getElementById( "hrinput" ).value );
+    hr = 8
 
     if ( !hr ) {
       hr = 8
