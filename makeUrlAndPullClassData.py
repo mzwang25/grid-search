@@ -1,5 +1,5 @@
 import sys
-from getClass import howLongCanIStayFor
+from pullClassData import howLongCanIStayFor
 
 # classesToSearch is an array of class names ... will format it
 def getClassLinks( classesToSearch ):
@@ -71,17 +71,6 @@ def getClassLinks( classesToSearch ):
 
 def main():
   # grab all classes from stdin, and turn it into links
-  if ( len( sys.argv ) != 3 ):
-    print( "Must have two arguments" )
-    print( "ex. ./thisfile 12:00:00 w" )
-    exit( 1 )
-
-  sys.argv[ 2 ] = sys.argv[ 2 ].capitalize()
-
-  if ( len( sys.argv[ 2 ] ) != 1 or ( not sys.argv[ 2 ] in "MTWRF" ) ):
-    print( sys.argv[ 2 ] + " is not a valid day of week" )
-    exit( 1 )
-
   classesToSearch = []
   names = []
   for line in sys.stdin:
@@ -89,13 +78,10 @@ def main():
     names.append( line.strip( '\n' ) )
 
   classLinks = getClassLinks( classesToSearch )
-  goalTime = sys.argv[ 1 ]
-  dayOfWeek = sys.argv[ 2 ]
 
   for i in range( 0, len( classLinks ) ):
-    print( names[ i ] )
-    print( "  -- ", end="" )
-    print( howLongCanIStayFor( classLinks[ i ], goalTime, dayOfWeek ) )
+    print( "Pulling " + names[ i ] )
+    howLongCanIStayFor( classLinks[ i ], names[ i ] )
 
 if __name__ == "__main__":
   try:

@@ -1,0 +1,42 @@
+[
+ {
+  "title": "C&EE    156A    ",
+  "start": "2014-11-11T08:00:00",
+  "end": "2014-11-11T08:50:00",
+  "lecture": "LEC 1",
+  "enrollment": "Enr: 16 of 16",
+  "enroll_total": 16,
+  "enroll_capacity": 16,
+  "mult_list_flag": "n",
+  "multi_header": "",
+  "multi_list_classes": [],
+  "meet_bdg": "BOELTER ",
+  "meet_rm": "  07745  ",
+  "Subj_Area": "C&EE   ",
+  "Days_in_week": "TR     ",
+  "strt_time": "08:00:00",
+  "stop_time": "08:50:00",
+  "fac_capacity": "20",
+  "start_date": "9/26/1991 12:00:00 AM"
+ },
+ {
+  "title": "C&EE    156A    ",
+  "start": "2014-11-13T08:00:00",
+  "end": "2014-11-13T08:50:00",
+  "lecture": "LEC 1",
+  "enrollment": "Enr: 16 of 16",
+  "enroll_total": 16,
+  "enroll_capacity": 16,
+  "mult_list_flag": "n",
+  "multi_header": "",
+  "multi_list_classes": [],
+  "meet_bdg": "BOELTER ",
+  "meet_rm": "  07745  ",
+  "Subj_Area": "C&EE   ",
+  "Days_in_week": "TR     ",
+  "strt_time": "08:00:00",
+  "stop_time": "08:50:00",
+  "fac_capacity": "20",
+  "start_date": "9/26/1991 12:00:00 AM"
+ }
+]
