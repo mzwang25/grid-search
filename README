@@ -35,4 +35,5 @@ To add classrooms into classScheduleData:
 grep "PUB AFF [12]" classrooms.txt | python3 makeUrlAndPullClassData.py
 
 To generate JSON of open classrooms
-python3 findOpenings.py
+python3 findOpenings.py > openingData/openingData.json
+
