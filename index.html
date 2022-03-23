@@ -11,11 +11,11 @@
     <a href="https://github.com/mzwang25/gridsearch"> Github </a>
     <h3 id="title"> </h3>
     <div class="dayOfWeekButtons">
-      <button onclick="selectDayOfWeek('M')"> M </button>
-      <button onclick="selectDayOfWeek('T')"> T </button>
-      <button onclick="selectDayOfWeek('W')"> W </button>
-      <button onclick="selectDayOfWeek('R')"> R </button>
-      <button onclick="selectDayOfWeek('F')"> F </button>
+      <button id='M' onclick="selectDayOfWeek('M')"> M </button>
+      <button id='T' onclick="selectDayOfWeek('T')"> T </button>
+      <button id='W' onclick="selectDayOfWeek('W')"> W </button>
+      <button id='R' onclick="selectDayOfWeek('R')"> R </button>
+      <button id='F' onclick="selectDayOfWeek('F')"> F </button>
     </div>
 
     <table id="dataDisplay">
@@ -26,9 +26,14 @@
 </body>
 
 <style>
+  body {
+    background-color: #FAF0CA
+  }
+
   h1 {
     font-size: 5em;
     text-align: center;
+    color: #0D3B66;
   }
 
   .container {
@@ -47,12 +52,26 @@
   .dayOfWeekButtons button {
     width: 10vw;
     height: 10vw;
+    max-width: 100px;
+    max-height: 100px;
+    font-size: 5vw;
+    background-color: #EE964B;
+    color: #0D3B66;
+  }
+
+  .dayOfWeekButtons button.clicked {
+    background-color: #F4D35E;
   }
 
   #hrinput {
     width: 30px;
     text-align: center;
     margin-bottom: 10px;
+  }
+
+  table, th, td {
+    padding-right: 10px;
+    color: #0D3B66;
   }
 
   input::-webkit-outer-spin-button,
@@ -65,6 +84,7 @@
 
 <script>
   DATA = null
+  CURRENTDAY = null
   function fetchData() {
     fetch( './openingData/openingData.json' ).then(
                        response => {
@@ -81,7 +101,13 @@
 
   function selectDayOfWeek( day ) {
     availableTimes = DATA[ day ];
-    //hr = parseInt( document.getElementById( "hrinput" ).value );
+
+    if ( CURRENTDAY ) 
+      document.getElementById( CURRENTDAY ).classList.remove( "clicked" );
+
+    document.getElementById( day ).classList.add( "clicked" );
+    CURRENTDAY = day;
+
     hr = 8
 
     if ( !hr ) {
@@ -98,8 +124,9 @@
       classrooms = availableTimes[ i ];
 
       for ( var key in classrooms ) {
+        const formattedKey = key.replace( /_/g, " " );
         var htmlToAdd = `<tr> 
-                          <td> ${key} </td> 
+                          <td> ${formattedKey} </td> 
                           <td> ${classrooms[key]} </td> 
                          </tr>`;
         display.innerHTML += htmlToAdd;

@@ -84,5 +84,5 @@ if __name__ == "__main__":
         if ( resultArr[ 0 ] == 'AVAIL' ):
           schedule[ day ][ hr ][ files[ i ][ : -5 ] ] = resultArr[ 1 ]
 
-  print( json.dumps( schedule, indent=1 ) )
+  print( json.dumps( schedule, indent=1, sort_keys=True ) )
   
