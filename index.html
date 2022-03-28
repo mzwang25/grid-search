@@ -29,14 +29,54 @@
 
   /* Color Scheme: https://coolors.co/0d3b66-faf0ca-f4d35e-ee964b-f95738 */
 
+  @keyframes slideinleft {
+    from {
+      margin-right: 100%;
+      opacity: 0%;
+    }
+
+    to {
+      margin-right: 0%;
+      opacity: 100%;
+
+    }
+  }
+
+  @keyframes fadein {
+    from {
+      opacity: 0%;
+    }
+
+    to {
+      opacity: 100%;
+    }
+  }
+
+  @keyframes rotation {
+    0% {
+      transform: rotate(0deg);
+    }
+
+    100% {
+      transform: rotate(360deg);
+      background-color: #F4D35E;
+
+    }
+  }
+
+
   body {
-    background-color: #FAF0CA
+    background-color: #FAF0CA;
+    overflow-x: hidden;
   }
 
   h1 {
     font-size: 5em;
     text-align: center;
     color: #0D3B66;
+    animation-name: slideinleft;
+    animation-duration: 3s;
+    width: 100%;
   }
 
   .container {
@@ -44,6 +84,8 @@
     flex-direction: column;
     align-items: center;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
+    animation: fadein;
+    animation-duration: 3s;
   }
 
   h4 {
@@ -70,6 +112,8 @@
 
   .dayOfWeekButtons button.clicked {
     background-color: #F4D35E;
+    animation: rotation;
+    animation-duration: 3s;
   }
 
   a {
@@ -87,6 +131,8 @@
     color: #0D3B66;
     font-family: Arial, sans-serif;
     padding-right: 10px;
+    animation: fadein;
+    animation-duration: 3s;
   }
 
   input::-webkit-outer-spin-button,
