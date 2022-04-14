@@ -112,12 +112,22 @@
 
   .dayOfWeekButtons button.clicked {
     background-color: #F4D35E;
-    animation: rotation;
-    animation-duration: 3s;
   }
 
   a {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
+
+  a:visited {
+    color: #0d3b66;
+  }
+
+  a:link {
+    color: #0d3b66;
+  }
+
+  a:hover {
+    color: #f95738;
   }
 
   #hrinput {
@@ -132,7 +142,7 @@
     font-family: Arial, sans-serif;
     padding-right: 10px;
     animation: fadein;
-    animation-duration: 3s;
+    animation-duration: 1s;
   }
 
   input::-webkit-outer-spin-button,
@@ -192,9 +202,10 @@
 
       for ( var key in classrooms ) {
         const formattedKey = key.replace( /_/g, " " );
+        const src = classrooms[key][1]
         var htmlToAdd = `<tr> 
-                          <td> ${formattedKey} </td> 
-                          <td> ${classrooms[key]} </td> 
+                          <td><a href=${src}> ${formattedKey} </a></td> 
+                          <td> ${classrooms[key][0]} </td> 
                          </tr>`;
         display.innerHTML += htmlToAdd;
       }

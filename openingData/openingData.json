@@ -1,848 +1,3056 @@
 {
  "F": {
   "8": {
-   "BOELTER_2444": "1:00:00",
-   "BOELTER_2760": "1:00:00",
-   "BOELTER_4413": "1:00:00",
-   "BOELTER_5252": "1:00:00",
-   "BOELTER_5273": "1:00:00",
-   "BOELTER_5280": "1:00:00",
-   "BOELTER_5419": "1:00:00",
-   "BOELTER_5422": "1:00:00",
-   "DODD_146": "1:00:00",
-   "DODD_147": "2:00:00",
-   "DODD_154": "1:00:00",
-   "DODD_162": "1:00:00",
-   "DODD_175": "1:00:00",
-   "DODD_178": "1:00:00",
-   "MS_5117": "1:00:00",
-   "MS_5127": "1:00:00",
-   "MS_5137": "1:00:00",
-   "MS_5138": "1:00:00",
-   "MS_5147": "2:00:00",
-   "MS_5148": "1:00:00",
-   "MS_5200": "1:00:00",
-   "MS_5203": "2:00:00",
-   "MS_5217": "1:00:00",
-   "MS_5233": "1:30:00",
-   "MS_6201": "1:00:00",
-   "MS_6221": "1:00:00",
-   "MS_6229": "1:00:00",
-   "MS_6627": "4:00:00",
-   "PAB_1434A": "1:00:00",
-   "PUB_AFF_1222": "1:00:00",
-   "PUB_AFF_1234": "2:00:00",
-   "PUB_AFF_1246": "1:00:00",
-   "PUB_AFF_1264": "1:00:00",
-   "PUB_AFF_1323": "1:00:00",
-   "PUB_AFF_1329": "1:00:00",
-   "PUB_AFF_1337": "1:00:00",
-   "PUB_AFF_1343": "1:00:00",
-   "PUB_AFF_2232": "1:00:00",
-   "PUB_AFF_2238": "1:00:00",
-   "PUB_AFF_2242": "1:00:00",
-   "PUB_AFF_2250": "1:30:00",
-   "PUB_AFF_2270": "1:00:00",
-   "PUB_AFF_2317": "2:00:00",
-   "PUB_AFF_2319": "1:00:00",
-   "PUB_AFF_2325": "1:00:00",
-   "PUB_AFF_2333": "1:00:00"
+   "BOELTER_2444": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++02444++"
+   ],
+   "BOELTER_2760": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++02760++"
+   ],
+   "BOELTER_4413": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04413++"
+   ],
+   "BOELTER_5252": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05252++"
+   ],
+   "BOELTER_5273": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05273++"
+   ],
+   "BOELTER_5280": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05280++"
+   ],
+   "BOELTER_5419": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05419++"
+   ],
+   "BOELTER_5422": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "DODD_146": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00146++"
+   ],
+   "DODD_147": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00147++"
+   ],
+   "DODD_154": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "DODD_162": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00162++"
+   ],
+   "DODD_175": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00175++"
+   ],
+   "DODD_178": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00178++"
+   ],
+   "MS_5117": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "MS_5127": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05127++"
+   ],
+   "MS_5137": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05137++"
+   ],
+   "MS_5138": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05138++"
+   ],
+   "MS_5147": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05147++"
+   ],
+   "MS_5148": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05148++"
+   ],
+   "MS_5200": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05200++"
+   ],
+   "MS_5203": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_5217": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05217++"
+   ],
+   "MS_5233": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05233++"
+   ],
+   "MS_6201": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06201++"
+   ],
+   "MS_6221": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06221++"
+   ],
+   "MS_6229": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06229++"
+   ],
+   "MS_6627": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PAB_1434A": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ],
+   "PUB_AFF_1222": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1264": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_1323": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_1329": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01329++"
+   ],
+   "PUB_AFF_1337": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_1343": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01343++"
+   ],
+   "PUB_AFF_2232": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2238": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2242": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02242++"
+   ],
+   "PUB_AFF_2250": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2270": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2317": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2319": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02319++"
+   ],
+   "PUB_AFF_2325": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ],
+   "PUB_AFF_2333": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   },
   "9": {
-   "DODD_147": "1:00:00",
-   "MS_5147": "1:00:00",
-   "MS_5203": "1:00:00",
-   "MS_5233": "0:30:00",
-   "MS_6627": "3:00:00",
-   "PUB_AFF_1234": "1:00:00",
-   "PUB_AFF_2250": "0:30:00",
-   "PUB_AFF_2317": "1:00:00"
+   "DODD_147": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00147++"
+   ],
+   "MS_5147": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05147++"
+   ],
+   "MS_5203": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_5233": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05233++"
+   ],
+   "MS_6627": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PUB_AFF_1234": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_2250": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2317": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ]
   },
   "10": {
-   "BOELTER_5440": "1:00:00",
-   "MS_6627": "2:00:00",
-   "PUB_AFF_2214": "1:00:00",
-   "PUB_AFF_2325": "1:00:00"
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "MS_6627": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PUB_AFF_2214": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2325": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ]
   },
   "11": {
-   "BOELTER_2444": "1:00:00",
-   "DODD_161": "1:00:00",
-   "MS_5203": "1:00:00",
-   "MS_6627": "1:00:00",
-   "PUB_AFF_1246": "1:00:00",
-   "PUB_AFF_1323": "1:00:00",
-   "PUB_AFF_1337": "1:00:00"
+   "BOELTER_2444": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++02444++"
+   ],
+   "DODD_161": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00161++"
+   ],
+   "MS_5203": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_6627": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PUB_AFF_1246": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1323": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_1337": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ]
   },
   "12": {
-   "BOELTER_5272": "1:00:00",
-   "BOELTER_5420": "1:00:00",
-   "PUB_AFF_1256": "1:00:00",
-   "PUB_AFF_2325": "2:00:00"
+   "BOELTER_5272": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05272++"
+   ],
+   "BOELTER_5420": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05420++"
+   ],
+   "PUB_AFF_1256": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01256++"
+   ],
+   "PUB_AFF_2325": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ]
   },
   "13": {
-   "MS_5117": "1:00:00",
-   "PUB_AFF_1222": "5:00:00",
-   "PUB_AFF_1234": "5:00:00",
-   "PUB_AFF_2214": "5:00:00",
-   "PUB_AFF_2317": "1:00:00",
-   "PUB_AFF_2325": "1:00:00",
-   "PUB_AFF_2333": "2:00:00"
+   "MS_5117": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "PUB_AFF_1222": [
+    "5:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "5:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_2214": [
+    "5:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2317": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2325": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ],
+   "PUB_AFF_2333": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   },
   "14": {
-   "DODD_147": "2:00:00",
-   "DODD_170": "1:00:00",
-   "MS_5137": "1:00:00",
-   "MS_5217": "2:00:00",
-   "MS_6627": "12:00:00",
-   "PUB_AFF_1222": "4:00:00",
-   "PUB_AFF_1234": "4:00:00",
-   "PUB_AFF_1256": "4:00:00",
-   "PUB_AFF_1264": "12:00:00",
-   "PUB_AFF_2214": "4:00:00",
-   "PUB_AFF_2238": "4:00:00",
-   "PUB_AFF_2270": "1:00:00",
-   "PUB_AFF_2333": "1:00:00"
+   "DODD_147": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00147++"
+   ],
+   "DODD_170": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00170++"
+   ],
+   "MS_5137": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05137++"
+   ],
+   "MS_5217": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05217++"
+   ],
+   "MS_6627": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PUB_AFF_1222": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1256": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01256++"
+   ],
+   "PUB_AFF_1264": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_2214": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2238": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2270": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2333": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   },
   "15": {
-   "BOELTER_5419": "1:00:00",
-   "BOELTER_5422": "12:00:00",
-   "DODD_147": "1:00:00",
-   "DODD_154": "12:00:00",
-   "MS_5148": "0:30:00",
-   "MS_5217": "1:00:00",
-   "MS_6627": "12:00:00",
-   "PUB_AFF_1222": "3:00:00",
-   "PUB_AFF_1234": "3:00:00",
-   "PUB_AFF_1246": "3:00:00",
-   "PUB_AFF_1256": "3:00:00",
-   "PUB_AFF_1264": "12:00:00",
-   "PUB_AFF_1329": "3:00:00",
-   "PUB_AFF_1343": "3:00:00",
-   "PUB_AFF_2214": "3:00:00",
-   "PUB_AFF_2238": "3:00:00",
-   "PUB_AFF_2319": "3:00:00"
+   "BOELTER_5419": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05419++"
+   ],
+   "BOELTER_5422": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "DODD_147": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00147++"
+   ],
+   "DODD_154": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "MS_5148": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05148++"
+   ],
+   "MS_5217": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05217++"
+   ],
+   "MS_6627": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PUB_AFF_1222": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1256": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01256++"
+   ],
+   "PUB_AFF_1264": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_1329": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01329++"
+   ],
+   "PUB_AFF_1343": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01343++"
+   ],
+   "PUB_AFF_2214": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2238": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2319": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02319++"
+   ]
   },
   "16": {
-   "BOELTER_4283": "12:00:00",
-   "BOELTER_4413": "12:00:00",
-   "BOELTER_5252": "12:00:00",
-   "BOELTER_5422": "12:00:00",
-   "DODD_154": "12:00:00",
-   "DODD_161": "12:00:00",
-   "DODD_162": "12:00:00",
-   "DODD_170": "1:00:00",
-   "DODD_178": "12:00:00",
-   "MS_5225": "12:00:00",
-   "MS_6201": "12:00:00",
-   "MS_6627": "12:00:00",
-   "PAB_2748": "1:00:00",
-   "PUB_AFF_1222": "2:00:00",
-   "PUB_AFF_1234": "2:00:00",
-   "PUB_AFF_1246": "2:00:00",
-   "PUB_AFF_1256": "2:00:00",
-   "PUB_AFF_1264": "12:00:00",
-   "PUB_AFF_1323": "2:00:00",
-   "PUB_AFF_1329": "2:00:00",
-   "PUB_AFF_1337": "2:00:00",
-   "PUB_AFF_1343": "2:00:00",
-   "PUB_AFF_2214": "2:00:00",
-   "PUB_AFF_2232": "2:00:00",
-   "PUB_AFF_2238": "2:00:00",
-   "PUB_AFF_2242": "2:00:00",
-   "PUB_AFF_2250": "2:00:00",
-   "PUB_AFF_2270": "2:00:00",
-   "PUB_AFF_2317": "2:00:00",
-   "PUB_AFF_2319": "2:00:00",
-   "PUB_AFF_2325": "2:00:00",
-   "PUB_AFF_2333": "2:00:00"
+   "BOELTER_4283": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04283++"
+   ],
+   "BOELTER_4413": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04413++"
+   ],
+   "BOELTER_5252": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05252++"
+   ],
+   "BOELTER_5422": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "DODD_154": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "DODD_161": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00161++"
+   ],
+   "DODD_162": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00162++"
+   ],
+   "DODD_170": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00170++"
+   ],
+   "DODD_178": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00178++"
+   ],
+   "MS_5225": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "MS_6201": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06201++"
+   ],
+   "MS_6627": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PAB_2748": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02748++"
+   ],
+   "PUB_AFF_1222": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1256": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01256++"
+   ],
+   "PUB_AFF_1264": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_1323": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_1329": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01329++"
+   ],
+   "PUB_AFF_1337": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_1343": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01343++"
+   ],
+   "PUB_AFF_2214": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2238": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2242": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02242++"
+   ],
+   "PUB_AFF_2250": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2270": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2317": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2319": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02319++"
+   ],
+   "PUB_AFF_2325": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ],
+   "PUB_AFF_2333": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   },
   "17": {
-   "BOELTER_4283": "12:00:00",
-   "BOELTER_4413": "12:00:00",
-   "BOELTER_5252": "12:00:00",
-   "BOELTER_5264": "12:00:00",
-   "BOELTER_5273": "12:00:00",
-   "BOELTER_5280": "12:00:00",
-   "BOELTER_5419": "12:00:00",
-   "BOELTER_5420": "12:00:00",
-   "BOELTER_5422": "12:00:00",
-   "BOELTER_5440": "1:00:00",
-   "DODD_154": "12:00:00",
-   "DODD_161": "12:00:00",
-   "DODD_162": "12:00:00",
-   "DODD_175": "12:00:00",
-   "DODD_178": "12:00:00",
-   "MS_5117": "12:00:00",
-   "MS_5118": "12:00:00",
-   "MS_5127": "12:00:00",
-   "MS_5137": "12:00:00",
-   "MS_5138": "12:00:00",
-   "MS_5147": "12:00:00",
-   "MS_5148": "12:00:00",
-   "MS_5200": "12:00:00",
-   "MS_5203": "12:00:00",
-   "MS_5225": "12:00:00",
-   "MS_5233": "12:00:00",
-   "MS_6201": "12:00:00",
-   "MS_6229": "12:00:00",
-   "MS_6627": "12:00:00",
-   "PAB_1425": "12:00:00",
-   "PAB_1434A": "12:00:00",
-   "PAB_1749": "12:00:00",
-   "PAB_2434": "12:00:00",
-   "PUB_AFF_1222": "1:00:00",
-   "PUB_AFF_1234": "1:00:00",
-   "PUB_AFF_1246": "1:00:00",
-   "PUB_AFF_1256": "1:00:00",
-   "PUB_AFF_1264": "12:00:00",
-   "PUB_AFF_1323": "1:00:00",
-   "PUB_AFF_1329": "1:00:00",
-   "PUB_AFF_1337": "1:00:00",
-   "PUB_AFF_1343": "1:00:00",
-   "PUB_AFF_2214": "1:00:00",
-   "PUB_AFF_2232": "1:00:00",
-   "PUB_AFF_2238": "1:00:00",
-   "PUB_AFF_2242": "1:00:00",
-   "PUB_AFF_2250": "1:00:00",
-   "PUB_AFF_2270": "1:00:00",
-   "PUB_AFF_2317": "1:00:00",
-   "PUB_AFF_2319": "1:00:00",
-   "PUB_AFF_2325": "1:00:00",
-   "PUB_AFF_2333": "1:00:00"
+   "BOELTER_4283": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04283++"
+   ],
+   "BOELTER_4413": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04413++"
+   ],
+   "BOELTER_5252": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05252++"
+   ],
+   "BOELTER_5264": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05264++"
+   ],
+   "BOELTER_5273": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05273++"
+   ],
+   "BOELTER_5280": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05280++"
+   ],
+   "BOELTER_5419": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05419++"
+   ],
+   "BOELTER_5420": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05420++"
+   ],
+   "BOELTER_5422": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "DODD_154": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "DODD_161": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00161++"
+   ],
+   "DODD_162": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00162++"
+   ],
+   "DODD_175": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00175++"
+   ],
+   "DODD_178": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00178++"
+   ],
+   "MS_5117": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "MS_5118": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05118++"
+   ],
+   "MS_5127": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05127++"
+   ],
+   "MS_5137": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05137++"
+   ],
+   "MS_5138": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05138++"
+   ],
+   "MS_5147": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05147++"
+   ],
+   "MS_5148": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05148++"
+   ],
+   "MS_5200": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05200++"
+   ],
+   "MS_5203": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_5225": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "MS_5233": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05233++"
+   ],
+   "MS_6201": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06201++"
+   ],
+   "MS_6229": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06229++"
+   ],
+   "MS_6627": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PAB_1425": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01425++"
+   ],
+   "PAB_1434A": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ],
+   "PAB_1749": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01749++"
+   ],
+   "PAB_2434": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02434++"
+   ],
+   "PUB_AFF_1222": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1256": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01256++"
+   ],
+   "PUB_AFF_1264": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_1323": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_1329": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01329++"
+   ],
+   "PUB_AFF_1337": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_1343": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01343++"
+   ],
+   "PUB_AFF_2214": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2238": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2242": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02242++"
+   ],
+   "PUB_AFF_2250": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2270": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2317": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2319": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02319++"
+   ],
+   "PUB_AFF_2325": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ],
+   "PUB_AFF_2333": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   }
  },
  "M": {
   "8": {
-   "BOELTER_2760": "1:00:00",
-   "BOELTER_4413": "3:00:00",
-   "BOELTER_5264": "2:00:00",
-   "BOELTER_5273": "2:00:00",
-   "BOELTER_5280": "2:00:00",
-   "BOELTER_5419": "1:00:00",
-   "BOELTER_5420": "2:00:00",
-   "BOELTER_5422": "2:00:00",
-   "BOELTER_5440": "3:00:00",
-   "DODD_146": "1:30:00",
-   "DODD_154": "1:00:00",
-   "DODD_162": "1:30:00",
-   "DODD_167": "1:30:00",
-   "DODD_175": "1:00:00",
-   "DODD_178": "1:00:00",
-   "MS_5117": "1:00:00",
-   "MS_5127": "1:00:00",
-   "MS_5137": "1:00:00",
-   "MS_5138": "1:00:00",
-   "MS_5147": "2:00:00",
-   "MS_5200": "1:00:00",
-   "MS_5203": "2:00:00",
-   "MS_6201": "1:00:00",
-   "MS_6221": "1:00:00",
-   "MS_6229": "1:00:00",
-   "MS_6627": "4:00:00",
-   "PAB_1434A": "1:00:00",
-   "PAB_2434": "3:00:00",
-   "PUB_AFF_1222": "1:00:00",
-   "PUB_AFF_1234": "2:00:00",
-   "PUB_AFF_1246": "2:00:00",
-   "PUB_AFF_1256": "2:00:00",
-   "PUB_AFF_1264": "1:30:00",
-   "PUB_AFF_1323": "1:30:00",
-   "PUB_AFF_1329": "2:00:00",
-   "PUB_AFF_1337": "2:00:00",
-   "PUB_AFF_1343": "1:00:00",
-   "PUB_AFF_2214": "1:30:00",
-   "PUB_AFF_2232": "3:00:00",
-   "PUB_AFF_2238": "2:00:00",
-   "PUB_AFF_2242": "2:00:00",
-   "PUB_AFF_2250": "2:00:00",
-   "PUB_AFF_2270": "1:00:00",
-   "PUB_AFF_2317": "1:30:00",
-   "PUB_AFF_2319": "1:00:00",
-   "PUB_AFF_2325": "1:30:00",
-   "PUB_AFF_2333": "2:00:00"
+   "BOELTER_2760": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++02760++"
+   ],
+   "BOELTER_4413": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04413++"
+   ],
+   "BOELTER_5264": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05264++"
+   ],
+   "BOELTER_5273": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05273++"
+   ],
+   "BOELTER_5280": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05280++"
+   ],
+   "BOELTER_5419": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05419++"
+   ],
+   "BOELTER_5420": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05420++"
+   ],
+   "BOELTER_5422": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "BOELTER_5440": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "DODD_146": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00146++"
+   ],
+   "DODD_154": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "DODD_162": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00162++"
+   ],
+   "DODD_167": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00167++"
+   ],
+   "DODD_175": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00175++"
+   ],
+   "DODD_178": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00178++"
+   ],
+   "MS_5117": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "MS_5127": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05127++"
+   ],
+   "MS_5137": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05137++"
+   ],
+   "MS_5138": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05138++"
+   ],
+   "MS_5147": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05147++"
+   ],
+   "MS_5200": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05200++"
+   ],
+   "MS_5203": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_6201": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06201++"
+   ],
+   "MS_6221": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06221++"
+   ],
+   "MS_6229": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06229++"
+   ],
+   "MS_6627": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PAB_1434A": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ],
+   "PAB_2434": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02434++"
+   ],
+   "PUB_AFF_1222": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1256": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01256++"
+   ],
+   "PUB_AFF_1264": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_1323": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_1329": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01329++"
+   ],
+   "PUB_AFF_1337": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_1343": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01343++"
+   ],
+   "PUB_AFF_2214": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2238": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2242": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02242++"
+   ],
+   "PUB_AFF_2250": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2270": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2317": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2319": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02319++"
+   ],
+   "PUB_AFF_2325": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ],
+   "PUB_AFF_2333": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   },
   "9": {
-   "BOELTER_4413": "2:00:00",
-   "BOELTER_5264": "1:00:00",
-   "BOELTER_5273": "1:00:00",
-   "BOELTER_5280": "1:00:00",
-   "BOELTER_5420": "1:00:00",
-   "BOELTER_5422": "1:00:00",
-   "BOELTER_5440": "2:00:00",
-   "DODD_146": "0:30:00",
-   "DODD_162": "0:30:00",
-   "DODD_167": "0:30:00",
-   "MS_5147": "1:00:00",
-   "MS_5203": "1:00:00",
-   "MS_6627": "3:00:00",
-   "PAB_2434": "2:00:00",
-   "PUB_AFF_1234": "1:00:00",
-   "PUB_AFF_1246": "1:00:00",
-   "PUB_AFF_1256": "1:00:00",
-   "PUB_AFF_1264": "0:30:00",
-   "PUB_AFF_1323": "0:30:00",
-   "PUB_AFF_1329": "1:00:00",
-   "PUB_AFF_1337": "1:00:00",
-   "PUB_AFF_2214": "0:30:00",
-   "PUB_AFF_2232": "2:00:00",
-   "PUB_AFF_2238": "1:00:00",
-   "PUB_AFF_2242": "1:00:00",
-   "PUB_AFF_2250": "1:00:00",
-   "PUB_AFF_2317": "0:30:00",
-   "PUB_AFF_2325": "0:30:00",
-   "PUB_AFF_2333": "1:00:00"
+   "BOELTER_4413": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04413++"
+   ],
+   "BOELTER_5264": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05264++"
+   ],
+   "BOELTER_5273": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05273++"
+   ],
+   "BOELTER_5280": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05280++"
+   ],
+   "BOELTER_5420": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05420++"
+   ],
+   "BOELTER_5422": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "BOELTER_5440": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "DODD_146": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00146++"
+   ],
+   "DODD_162": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00162++"
+   ],
+   "DODD_167": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00167++"
+   ],
+   "MS_5147": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05147++"
+   ],
+   "MS_5203": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_6627": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PAB_2434": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02434++"
+   ],
+   "PUB_AFF_1234": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1256": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01256++"
+   ],
+   "PUB_AFF_1264": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_1323": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_1329": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01329++"
+   ],
+   "PUB_AFF_1337": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_2214": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2238": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2242": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02242++"
+   ],
+   "PUB_AFF_2250": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2317": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2325": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ],
+   "PUB_AFF_2333": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   },
   "10": {
-   "BOELTER_4283": "4:00:00",
-   "BOELTER_4413": "1:00:00",
-   "BOELTER_5440": "1:00:00",
-   "DODD_121": "1:00:00",
-   "MS_6221": "3:00:00",
-   "MS_6627": "2:00:00",
-   "PAB_2434": "1:00:00",
-   "PUB_AFF_2232": "1:00:00"
+   "BOELTER_4283": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04283++"
+   ],
+   "BOELTER_4413": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04413++"
+   ],
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "DODD_121": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00121++"
+   ],
+   "MS_6221": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06221++"
+   ],
+   "MS_6627": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PAB_2434": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02434++"
+   ],
+   "PUB_AFF_2232": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ]
   },
   "11": {
-   "BOELTER_4283": "3:00:00",
-   "DODD_161": "1:30:00",
-   "MS_5203": "1:00:00",
-   "MS_6221": "2:00:00",
-   "MS_6627": "1:00:00",
-   "PUB_AFF_1264": "1:30:00"
+   "BOELTER_4283": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04283++"
+   ],
+   "DODD_161": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00161++"
+   ],
+   "MS_5203": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_6221": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06221++"
+   ],
+   "MS_6627": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PUB_AFF_1264": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ]
   },
   "12": {
-   "BOELTER_4283": "2:00:00",
-   "BOELTER_5436": "2:00:00",
-   "DODD_161": "0:30:00",
-   "DODD_175": "0:30:00",
-   "MS_5233": "1:00:00",
-   "MS_6221": "1:00:00",
-   "PAB_1434A": "2:00:00",
-   "PUB_AFF_1222": "0:30:00",
-   "PUB_AFF_1234": "6:00:00",
-   "PUB_AFF_1246": "1:00:00",
-   "PUB_AFF_1256": "1:00:00",
-   "PUB_AFF_1264": "0:30:00",
-   "PUB_AFF_2250": "0:30:00"
+   "BOELTER_4283": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04283++"
+   ],
+   "BOELTER_5436": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05436++"
+   ],
+   "DODD_161": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00161++"
+   ],
+   "DODD_175": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00175++"
+   ],
+   "MS_5233": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05233++"
+   ],
+   "MS_6221": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06221++"
+   ],
+   "PAB_1434A": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ],
+   "PUB_AFF_1222": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "6:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1256": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01256++"
+   ],
+   "PUB_AFF_1264": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_2250": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ]
   },
   "13": {
-   "BOELTER_4283": "1:00:00",
-   "BOELTER_5422": "2:00:00",
-   "BOELTER_5436": "1:00:00",
-   "DODD_170": "1:00:00",
-   "MS_5117": "1:00:00",
-   "MS_5225": "1:00:00",
-   "PAB_1434A": "1:00:00",
-   "PUB_AFF_1234": "5:00:00",
-   "PUB_AFF_2238": "5:00:00"
+   "BOELTER_4283": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04283++"
+   ],
+   "BOELTER_5422": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "BOELTER_5436": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05436++"
+   ],
+   "DODD_170": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00170++"
+   ],
+   "MS_5117": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "MS_5225": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "PAB_1434A": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ],
+   "PUB_AFF_1234": [
+    "5:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_2238": [
+    "5:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ]
   },
   "14": {
-   "BOELTER_5419": "1:00:00",
-   "BOELTER_5422": "1:00:00",
-   "MS_5137": "1:00:00",
-   "MS_5233": "1:00:00",
-   "MS_6627": "2:00:00",
-   "PUB_AFF_1234": "4:00:00",
-   "PUB_AFF_1256": "1:00:00",
-   "PUB_AFF_1264": "1:00:00",
-   "PUB_AFF_2214": "1:00:00",
-   "PUB_AFF_2238": "4:00:00",
-   "PUB_AFF_2270": "4:00:00",
-   "PUB_AFF_2317": "1:00:00",
-   "PUB_AFF_2325": "1:00:00"
+   "BOELTER_5419": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05419++"
+   ],
+   "BOELTER_5422": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "MS_5137": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05137++"
+   ],
+   "MS_5233": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05233++"
+   ],
+   "MS_6627": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PUB_AFF_1234": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1256": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01256++"
+   ],
+   "PUB_AFF_1264": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_2214": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2238": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2270": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2317": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2325": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ]
   },
   "15": {
-   "DODD_178": "1:00:00",
-   "MS_5203": "3:00:00",
-   "MS_6627": "1:00:00",
-   "PAB_1434A": "2:00:00",
-   "PUB_AFF_1234": "3:00:00",
-   "PUB_AFF_1246": "0:30:00",
-   "PUB_AFF_1337": "3:00:00",
-   "PUB_AFF_2238": "3:00:00",
-   "PUB_AFF_2270": "3:00:00",
-   "PUB_AFF_2319": "3:00:00"
+   "DODD_178": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00178++"
+   ],
+   "MS_5203": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_6627": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PAB_1434A": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ],
+   "PUB_AFF_1234": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1337": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_2238": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2270": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2319": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02319++"
+   ]
   },
   "16": {
-   "BOELTER_5436": "12:00:00",
-   "DODD_154": "1:00:00",
-   "DODD_170": "1:00:00",
-   "MS_5117": "12:00:00",
-   "MS_5203": "2:00:00",
-   "MS_5217": "12:00:00",
-   "MS_5225": "12:00:00",
-   "MS_6201": "12:00:00",
-   "PAB_1434A": "1:00:00",
-   "PAB_1749": "12:00:00",
-   "PAB_2748": "1:00:00",
-   "PUB_AFF_1222": "2:00:00",
-   "PUB_AFF_1234": "2:00:00",
-   "PUB_AFF_1323": "2:00:00",
-   "PUB_AFF_1329": "2:00:00",
-   "PUB_AFF_1337": "2:00:00",
-   "PUB_AFF_2214": "2:00:00",
-   "PUB_AFF_2238": "2:00:00",
-   "PUB_AFF_2250": "2:00:00",
-   "PUB_AFF_2270": "2:00:00",
-   "PUB_AFF_2317": "2:00:00",
-   "PUB_AFF_2319": "2:00:00",
-   "PUB_AFF_2325": "2:00:00"
+   "BOELTER_5436": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05436++"
+   ],
+   "DODD_154": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "DODD_170": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00170++"
+   ],
+   "MS_5117": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "MS_5203": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_5217": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05217++"
+   ],
+   "MS_5225": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "MS_6201": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06201++"
+   ],
+   "PAB_1434A": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ],
+   "PAB_1749": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01749++"
+   ],
+   "PAB_2748": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02748++"
+   ],
+   "PUB_AFF_1222": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1323": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_1329": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01329++"
+   ],
+   "PUB_AFF_1337": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_2214": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2238": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2250": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2270": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2317": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2319": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02319++"
+   ],
+   "PUB_AFF_2325": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ]
   },
   "17": {
-   "BOELTER_5273": "12:00:00",
-   "BOELTER_5420": "12:00:00",
-   "BOELTER_5422": "12:00:00",
-   "BOELTER_5436": "12:00:00",
-   "BOELTER_5440": "1:00:00",
-   "DODD_146": "12:00:00",
-   "DODD_147": "12:00:00",
-   "MS_5117": "12:00:00",
-   "MS_5118": "12:00:00",
-   "MS_5127": "12:00:00",
-   "MS_5128": "12:00:00",
-   "MS_5137": "12:00:00",
-   "MS_5138": "12:00:00",
-   "MS_5147": "12:00:00",
-   "MS_5200": "1:00:00",
-   "MS_5203": "1:00:00",
-   "MS_5217": "12:00:00",
-   "MS_5225": "12:00:00",
-   "MS_5233": "12:00:00",
-   "MS_6201": "12:00:00",
-   "MS_6221": "12:00:00",
-   "MS_6229": "12:00:00",
-   "PAB_1749": "12:00:00",
-   "PUB_AFF_1222": "1:00:00",
-   "PUB_AFF_1234": "1:00:00",
-   "PUB_AFF_1246": "1:00:00",
-   "PUB_AFF_1323": "1:00:00",
-   "PUB_AFF_1329": "1:00:00",
-   "PUB_AFF_1337": "1:00:00",
-   "PUB_AFF_2214": "1:00:00",
-   "PUB_AFF_2232": "1:00:00",
-   "PUB_AFF_2238": "1:00:00",
-   "PUB_AFF_2250": "1:00:00",
-   "PUB_AFF_2270": "1:00:00",
-   "PUB_AFF_2317": "1:00:00",
-   "PUB_AFF_2319": "1:00:00",
-   "PUB_AFF_2325": "1:00:00",
-   "PUB_AFF_2333": "1:00:00"
+   "BOELTER_5273": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05273++"
+   ],
+   "BOELTER_5420": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05420++"
+   ],
+   "BOELTER_5422": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "BOELTER_5436": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05436++"
+   ],
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "DODD_146": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00146++"
+   ],
+   "DODD_147": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00147++"
+   ],
+   "MS_5117": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "MS_5118": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05118++"
+   ],
+   "MS_5127": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05127++"
+   ],
+   "MS_5128": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05128++"
+   ],
+   "MS_5137": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05137++"
+   ],
+   "MS_5138": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05138++"
+   ],
+   "MS_5147": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05147++"
+   ],
+   "MS_5200": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05200++"
+   ],
+   "MS_5203": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_5217": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05217++"
+   ],
+   "MS_5225": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "MS_5233": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05233++"
+   ],
+   "MS_6201": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06201++"
+   ],
+   "MS_6221": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06221++"
+   ],
+   "MS_6229": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06229++"
+   ],
+   "PAB_1749": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01749++"
+   ],
+   "PUB_AFF_1222": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1323": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_1329": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01329++"
+   ],
+   "PUB_AFF_1337": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_2214": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2238": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2250": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2270": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2317": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2319": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02319++"
+   ],
+   "PUB_AFF_2325": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ],
+   "PUB_AFF_2333": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   }
  },
  "R": {
   "8": {
-   "BOELTER_4413": "1:00:00",
-   "BOELTER_4760": "2:00:00",
-   "BOELTER_5272": "1:00:00",
-   "BOELTER_5280": "1:00:00",
-   "BOELTER_5419": "1:00:00",
-   "BOELTER_5420": "1:00:00",
-   "BOELTER_5422": "1:00:00",
-   "BOELTER_5436": "1:00:00",
-   "BOELTER_5440": "1:00:00",
-   "DODD_121": "1:30:00",
-   "DODD_146": "1:30:00",
-   "DODD_154": "2:00:00",
-   "DODD_162": "1:00:00",
-   "DODD_167": "1:00:00",
-   "DODD_178": "1:00:00",
-   "MS_5117": "1:00:00",
-   "MS_5118": "1:00:00",
-   "MS_5147": "1:00:00",
-   "MS_5200": "1:30:00",
-   "MS_6229": "1:00:00",
-   "PAB_1425": "1:00:00",
-   "PAB_1434A": "1:30:00",
-   "PAB_2434": "1:00:00",
-   "PAB_2748": "1:00:00",
-   "PUB_AFF_1222": "2:00:00",
-   "PUB_AFF_1234": "1:30:00",
-   "PUB_AFF_1246": "1:00:00",
-   "PUB_AFF_1337": "1:00:00",
-   "PUB_AFF_1343": "3:00:00",
-   "PUB_AFF_2214": "3:00:00",
-   "PUB_AFF_2232": "1:00:00",
-   "PUB_AFF_2238": "1:00:00",
-   "PUB_AFF_2242": "1:00:00",
-   "PUB_AFF_2250": "2:00:00",
-   "PUB_AFF_2319": "1:00:00",
-   "PUB_AFF_2333": "1:00:00"
+   "BOELTER_4413": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04413++"
+   ],
+   "BOELTER_4760": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04760++"
+   ],
+   "BOELTER_5272": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05272++"
+   ],
+   "BOELTER_5280": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05280++"
+   ],
+   "BOELTER_5419": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05419++"
+   ],
+   "BOELTER_5420": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05420++"
+   ],
+   "BOELTER_5422": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "BOELTER_5436": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05436++"
+   ],
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "DODD_121": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00121++"
+   ],
+   "DODD_146": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00146++"
+   ],
+   "DODD_154": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "DODD_162": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00162++"
+   ],
+   "DODD_167": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00167++"
+   ],
+   "DODD_178": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00178++"
+   ],
+   "MS_5117": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "MS_5118": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05118++"
+   ],
+   "MS_5147": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05147++"
+   ],
+   "MS_5200": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05200++"
+   ],
+   "MS_6229": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06229++"
+   ],
+   "PAB_1425": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01425++"
+   ],
+   "PAB_1434A": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ],
+   "PAB_2434": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02434++"
+   ],
+   "PAB_2748": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02748++"
+   ],
+   "PUB_AFF_1222": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1337": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_1343": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01343++"
+   ],
+   "PUB_AFF_2214": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2238": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2242": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02242++"
+   ],
+   "PUB_AFF_2250": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2319": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02319++"
+   ],
+   "PUB_AFF_2333": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   },
   "9": {
-   "BOELTER_4760": "1:00:00",
-   "BOELTER_5252": "1:00:00",
-   "DODD_121": "0:30:00",
-   "DODD_146": "0:30:00",
-   "DODD_154": "1:00:00",
-   "MS_5200": "0:30:00",
-   "MS_5225": "1:00:00",
-   "PAB_1434A": "0:30:00",
-   "PUB_AFF_1222": "1:00:00",
-   "PUB_AFF_1234": "0:30:00",
-   "PUB_AFF_1343": "2:00:00",
-   "PUB_AFF_2214": "2:00:00",
-   "PUB_AFF_2250": "1:00:00",
-   "PUB_AFF_2317": "0:30:00"
+   "BOELTER_4760": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04760++"
+   ],
+   "BOELTER_5252": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05252++"
+   ],
+   "DODD_121": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00121++"
+   ],
+   "DODD_146": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00146++"
+   ],
+   "DODD_154": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "MS_5200": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05200++"
+   ],
+   "MS_5225": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "PAB_1434A": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ],
+   "PUB_AFF_1222": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1343": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01343++"
+   ],
+   "PUB_AFF_2214": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2250": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2317": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ]
   },
   "10": {
-   "DODD_161": "1:00:00",
-   "PUB_AFF_1343": "1:00:00",
-   "PUB_AFF_2214": "1:00:00",
-   "PUB_AFF_2355": "1:00:00"
+   "DODD_161": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00161++"
+   ],
+   "PUB_AFF_1343": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01343++"
+   ],
+   "PUB_AFF_2214": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2355": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02355++"
+   ]
   },
   "11": {
-   "BOELTER_5420": "1:00:00",
-   "BOELTER_5440": "1:00:00",
-   "PUB_AFF_1264": "1:00:00"
+   "BOELTER_5420": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05420++"
+   ],
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "PUB_AFF_1264": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ]
   },
   "12": {
-   "BOELTER_2760": "0:30:00",
-   "BOELTER_4760": "4:00:00",
-   "BOELTER_5273": "1:00:00",
-   "MS_5233": "0:30:00"
+   "BOELTER_2760": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++02760++"
+   ],
+   "BOELTER_4760": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04760++"
+   ],
+   "BOELTER_5273": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05273++"
+   ],
+   "MS_5233": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05233++"
+   ]
   },
   "13": {
-   "BOELTER_4760": "3:00:00",
-   "PUB_AFF_1234": "1:00:00",
-   "PUB_AFF_1323": "1:00:00"
+   "BOELTER_4760": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04760++"
+   ],
+   "PUB_AFF_1234": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1323": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ]
   },
   "14": {
-   "BOELTER_4760": "2:00:00",
-   "PAB_2748": "1:00:00",
-   "PUB_AFF_2250": "4:00:00",
-   "PUB_AFF_2355": "3:00:00"
+   "BOELTER_4760": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04760++"
+   ],
+   "PAB_2748": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02748++"
+   ],
+   "PUB_AFF_2250": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2355": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02355++"
+   ]
   },
   "15": {
-   "BOELTER_4760": "1:00:00",
-   "BOELTER_5252": "1:00:00",
-   "DODD_178": "0:30:00",
-   "PUB_AFF_2250": "3:00:00",
-   "PUB_AFF_2355": "2:00:00"
+   "BOELTER_4760": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04760++"
+   ],
+   "BOELTER_5252": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05252++"
+   ],
+   "DODD_178": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00178++"
+   ],
+   "PUB_AFF_2250": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2355": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02355++"
+   ]
   },
   "16": {
-   "BOELTER_5440": "2:00:00",
-   "MS_5138": "1:00:00",
-   "MS_5225": "12:00:00",
-   "PUB_AFF_2232": "2:00:00",
-   "PUB_AFF_2242": "2:00:00",
-   "PUB_AFF_2250": "2:00:00",
-   "PUB_AFF_2325": "2:00:00",
-   "PUB_AFF_2355": "1:00:00"
+   "BOELTER_5440": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "MS_5138": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05138++"
+   ],
+   "MS_5225": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "PUB_AFF_2232": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2242": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02242++"
+   ],
+   "PUB_AFF_2250": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2325": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ],
+   "PUB_AFF_2355": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02355++"
+   ]
   },
   "17": {
-   "BOELTER_5273": "12:00:00",
-   "BOELTER_5422": "12:00:00",
-   "BOELTER_5440": "1:00:00",
-   "DODD_147": "12:00:00",
-   "MS_5117": "12:00:00",
-   "MS_5118": "12:00:00",
-   "MS_5137": "12:00:00",
-   "MS_5147": "12:00:00",
-   "MS_5225": "12:00:00",
-   "PUB_AFF_1246": "1:00:00",
-   "PUB_AFF_1256": "1:00:00",
-   "PUB_AFF_2214": "1:00:00",
-   "PUB_AFF_2232": "1:00:00",
-   "PUB_AFF_2242": "1:00:00",
-   "PUB_AFF_2250": "1:00:00",
-   "PUB_AFF_2270": "1:00:00",
-   "PUB_AFF_2325": "1:00:00",
-   "PUB_AFF_2333": "1:00:00"
+   "BOELTER_5273": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05273++"
+   ],
+   "BOELTER_5422": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "DODD_147": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00147++"
+   ],
+   "MS_5117": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "MS_5118": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05118++"
+   ],
+   "MS_5137": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05137++"
+   ],
+   "MS_5147": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05147++"
+   ],
+   "MS_5225": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "PUB_AFF_1246": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1256": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01256++"
+   ],
+   "PUB_AFF_2214": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2242": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02242++"
+   ],
+   "PUB_AFF_2250": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2270": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2325": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ],
+   "PUB_AFF_2333": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   }
  },
  "T": {
   "8": {
-   "BOELTER_4760": "2:00:00",
-   "BOELTER_5272": "1:00:00",
-   "BOELTER_5273": "1:00:00",
-   "BOELTER_5280": "1:00:00",
-   "BOELTER_5419": "1:00:00",
-   "BOELTER_5420": "1:00:00",
-   "BOELTER_5436": "2:00:00",
-   "DODD_121": "1:30:00",
-   "DODD_146": "1:30:00",
-   "DODD_154": "2:00:00",
-   "DODD_162": "1:00:00",
-   "DODD_167": "1:00:00",
-   "DODD_178": "1:00:00",
-   "MS_5117": "1:00:00",
-   "MS_5147": "1:00:00",
-   "MS_5200": "1:30:00",
-   "MS_5225": "1:00:00",
-   "MS_6229": "1:00:00",
-   "PAB_1434A": "1:30:00",
-   "PAB_2434": "1:00:00",
-   "PAB_2748": "2:00:00",
-   "PUB_AFF_1222": "2:00:00",
-   "PUB_AFF_1234": "1:30:00",
-   "PUB_AFF_1246": "2:00:00",
-   "PUB_AFF_1337": "2:00:00",
-   "PUB_AFF_1343": "1:00:00",
-   "PUB_AFF_2214": "3:00:00",
-   "PUB_AFF_2232": "2:00:00",
-   "PUB_AFF_2238": "2:00:00",
-   "PUB_AFF_2242": "1:00:00",
-   "PUB_AFF_2250": "1:00:00",
-   "PUB_AFF_2270": "2:00:00",
-   "PUB_AFF_2317": "1:30:00",
-   "PUB_AFF_2319": "1:00:00",
-   "PUB_AFF_2333": "2:00:00"
+   "BOELTER_4760": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04760++"
+   ],
+   "BOELTER_5272": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05272++"
+   ],
+   "BOELTER_5273": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05273++"
+   ],
+   "BOELTER_5280": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05280++"
+   ],
+   "BOELTER_5419": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05419++"
+   ],
+   "BOELTER_5420": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05420++"
+   ],
+   "BOELTER_5436": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05436++"
+   ],
+   "DODD_121": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00121++"
+   ],
+   "DODD_146": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00146++"
+   ],
+   "DODD_154": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "DODD_162": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00162++"
+   ],
+   "DODD_167": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00167++"
+   ],
+   "DODD_178": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00178++"
+   ],
+   "MS_5117": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "MS_5147": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05147++"
+   ],
+   "MS_5200": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05200++"
+   ],
+   "MS_5225": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "MS_6229": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06229++"
+   ],
+   "PAB_1434A": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ],
+   "PAB_2434": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02434++"
+   ],
+   "PAB_2748": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02748++"
+   ],
+   "PUB_AFF_1222": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1337": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_1343": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01343++"
+   ],
+   "PUB_AFF_2214": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2238": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2242": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02242++"
+   ],
+   "PUB_AFF_2250": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2270": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2317": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2319": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02319++"
+   ],
+   "PUB_AFF_2333": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   },
   "9": {
-   "BOELTER_4283": "1:00:00",
-   "BOELTER_4760": "1:00:00",
-   "BOELTER_5436": "1:00:00",
-   "BOELTER_5440": "1:00:00",
-   "DODD_121": "0:30:00",
-   "DODD_146": "0:30:00",
-   "DODD_154": "1:00:00",
-   "MS_5200": "0:30:00",
-   "PAB_1434A": "0:30:00",
-   "PAB_2748": "1:00:00",
-   "PUB_AFF_1222": "1:00:00",
-   "PUB_AFF_1234": "0:30:00",
-   "PUB_AFF_1246": "1:00:00",
-   "PUB_AFF_1337": "1:00:00",
-   "PUB_AFF_2214": "2:00:00",
-   "PUB_AFF_2232": "1:00:00",
-   "PUB_AFF_2238": "1:00:00",
-   "PUB_AFF_2270": "1:00:00",
-   "PUB_AFF_2317": "0:30:00",
-   "PUB_AFF_2333": "1:00:00"
+   "BOELTER_4283": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04283++"
+   ],
+   "BOELTER_4760": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04760++"
+   ],
+   "BOELTER_5436": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05436++"
+   ],
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "DODD_121": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00121++"
+   ],
+   "DODD_146": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00146++"
+   ],
+   "DODD_154": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "MS_5200": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05200++"
+   ],
+   "PAB_1434A": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ],
+   "PAB_2748": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02748++"
+   ],
+   "PUB_AFF_1222": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1337": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_2214": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2238": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2270": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2317": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2333": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   },
   "10": {
-   "DODD_161": "1:00:00",
-   "PUB_AFF_2214": "1:00:00",
-   "PUB_AFF_2355": "1:00:00"
+   "DODD_161": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00161++"
+   ],
+   "PUB_AFF_2214": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2355": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02355++"
+   ]
   },
   "11": {
-   "MS_5217": "1:00:00",
-   "PUB_AFF_1264": "1:00:00",
-   "PUB_AFF_1343": "1:00:00"
+   "MS_5217": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05217++"
+   ],
+   "PUB_AFF_1264": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_1343": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01343++"
+   ]
   },
   "12": {
-   "BOELTER_2760": "0:30:00",
-   "BOELTER_4760": "4:00:00",
-   "MS_5225": "1:00:00",
-   "MS_5233": "0:30:00",
-   "PUB_AFF_2238": "2:00:00"
+   "BOELTER_2760": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++02760++"
+   ],
+   "BOELTER_4760": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04760++"
+   ],
+   "MS_5225": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "MS_5233": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05233++"
+   ],
+   "PUB_AFF_2238": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ]
   },
   "13": {
-   "BOELTER_4760": "3:00:00",
-   "BOELTER_5249": "1:00:00",
-   "PUB_AFF_1234": "1:00:00",
-   "PUB_AFF_1323": "1:00:00",
-   "PUB_AFF_1329": "1:00:00",
-   "PUB_AFF_2214": "5:00:00",
-   "PUB_AFF_2238": "1:00:00",
-   "PUB_AFF_2333": "1:00:00",
-   "PUB_AFF_2355": "4:00:00"
+   "BOELTER_4760": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04760++"
+   ],
+   "BOELTER_5249": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05249++"
+   ],
+   "PUB_AFF_1234": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1323": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_1329": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01329++"
+   ],
+   "PUB_AFF_2214": [
+    "5:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2238": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2333": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ],
+   "PUB_AFF_2355": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02355++"
+   ]
   },
   "14": {
-   "BOELTER_4760": "2:00:00",
-   "DODD_167": "1:30:00",
-   "PAB_2748": "3:00:00",
-   "PUB_AFF_2214": "4:00:00",
-   "PUB_AFF_2250": "1:00:00",
-   "PUB_AFF_2355": "3:00:00"
+   "BOELTER_4760": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04760++"
+   ],
+   "DODD_167": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00167++"
+   ],
+   "PAB_2748": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02748++"
+   ],
+   "PUB_AFF_2214": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2250": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2355": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02355++"
+   ]
   },
   "15": {
-   "BOELTER_4760": "1:00:00",
-   "BOELTER_5280": "1:00:00",
-   "DODD_154": "2:00:00",
-   "DODD_167": "0:30:00",
-   "DODD_178": "0:30:00",
-   "PAB_2748": "2:00:00",
-   "PUB_AFF_1323": "1:00:00",
-   "PUB_AFF_2214": "3:00:00",
-   "PUB_AFF_2355": "2:00:00"
+   "BOELTER_4760": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04760++"
+   ],
+   "BOELTER_5280": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05280++"
+   ],
+   "DODD_154": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "DODD_167": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00167++"
+   ],
+   "DODD_178": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00178++"
+   ],
+   "PAB_2748": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02748++"
+   ],
+   "PUB_AFF_1323": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_2214": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2355": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02355++"
+   ]
   },
   "16": {
-   "BOELTER_5264": "1:00:00",
-   "BOELTER_5436": "2:00:00",
-   "DODD_154": "1:00:00",
-   "PAB_2748": "1:00:00",
-   "PUB_AFF_1329": "2:00:00",
-   "PUB_AFF_2214": "2:00:00",
-   "PUB_AFF_2232": "2:00:00",
-   "PUB_AFF_2242": "2:00:00",
-   "PUB_AFF_2317": "2:00:00",
-   "PUB_AFF_2333": "2:00:00",
-   "PUB_AFF_2355": "1:00:00"
+   "BOELTER_5264": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05264++"
+   ],
+   "BOELTER_5436": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05436++"
+   ],
+   "DODD_154": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "PAB_2748": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02748++"
+   ],
+   "PUB_AFF_1329": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01329++"
+   ],
+   "PUB_AFF_2214": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2242": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02242++"
+   ],
+   "PUB_AFF_2317": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2333": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ],
+   "PUB_AFF_2355": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02355++"
+   ]
   },
   "17": {
-   "BOELTER_5273": "12:00:00",
-   "BOELTER_5436": "1:00:00",
-   "BOELTER_5440": "1:00:00",
-   "DODD_147": "12:00:00",
-   "DODD_178": "12:00:00",
-   "MS_5118": "12:00:00",
-   "MS_5127": "12:00:00",
-   "MS_5137": "12:00:00",
-   "MS_5147": "12:00:00",
-   "MS_5203": "12:00:00",
-   "MS_5217": "12:00:00",
-   "MS_5225": "12:00:00",
-   "MS_6201": "12:00:00",
-   "PUB_AFF_1246": "1:00:00",
-   "PUB_AFF_1329": "1:00:00",
-   "PUB_AFF_2214": "1:00:00",
-   "PUB_AFF_2232": "1:00:00",
-   "PUB_AFF_2242": "1:00:00",
-   "PUB_AFF_2250": "1:00:00",
-   "PUB_AFF_2270": "1:00:00",
-   "PUB_AFF_2317": "1:00:00",
-   "PUB_AFF_2333": "1:00:00"
+   "BOELTER_5273": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05273++"
+   ],
+   "BOELTER_5436": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05436++"
+   ],
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "DODD_147": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00147++"
+   ],
+   "DODD_178": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00178++"
+   ],
+   "MS_5118": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05118++"
+   ],
+   "MS_5127": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05127++"
+   ],
+   "MS_5137": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05137++"
+   ],
+   "MS_5147": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05147++"
+   ],
+   "MS_5203": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_5217": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05217++"
+   ],
+   "MS_5225": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "MS_6201": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06201++"
+   ],
+   "PUB_AFF_1246": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1329": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01329++"
+   ],
+   "PUB_AFF_2214": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2242": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02242++"
+   ],
+   "PUB_AFF_2250": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2270": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2317": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2333": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   }
  },
  "W": {
   "8": {
-   "BOELTER_2760": "2:00:00",
-   "BOELTER_4413": "2:00:00",
-   "BOELTER_5264": "1:00:00",
-   "BOELTER_5273": "1:00:00",
-   "BOELTER_5280": "2:00:00",
-   "BOELTER_5422": "1:00:00",
-   "BOELTER_5440": "1:00:00",
-   "DODD_121": "2:00:00",
-   "DODD_146": "1:30:00",
-   "DODD_154": "2:00:00",
-   "DODD_162": "1:30:00",
-   "DODD_167": "1:30:00",
-   "DODD_175": "1:00:00",
-   "DODD_178": "1:00:00",
-   "MS_5117": "1:00:00",
-   "MS_5127": "1:00:00",
-   "MS_5137": "1:00:00",
-   "MS_5138": "1:00:00",
-   "MS_5200": "1:00:00",
-   "MS_5233": "1:00:00",
-   "MS_6221": "1:00:00",
-   "MS_6229": "1:00:00",
-   "MS_6627": "4:00:00",
-   "PAB_1434A": "1:00:00",
-   "PAB_2748": "1:00:00",
-   "PUB_AFF_1222": "1:00:00",
-   "PUB_AFF_1234": "2:00:00",
-   "PUB_AFF_1264": "1:30:00",
-   "PUB_AFF_1323": "1:30:00",
-   "PUB_AFF_1329": "1:00:00",
-   "PUB_AFF_1337": "1:00:00",
-   "PUB_AFF_1343": "1:00:00",
-   "PUB_AFF_2214": "1:30:00",
-   "PUB_AFF_2232": "3:00:00",
-   "PUB_AFF_2238": "2:00:00",
-   "PUB_AFF_2250": "1:00:00",
-   "PUB_AFF_2317": "1:30:00",
-   "PUB_AFF_2319": "1:00:00",
-   "PUB_AFF_2325": "1:30:00",
-   "PUB_AFF_2333": "2:00:00"
+   "BOELTER_2760": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++02760++"
+   ],
+   "BOELTER_4413": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04413++"
+   ],
+   "BOELTER_5264": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05264++"
+   ],
+   "BOELTER_5273": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05273++"
+   ],
+   "BOELTER_5280": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05280++"
+   ],
+   "BOELTER_5422": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "DODD_121": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00121++"
+   ],
+   "DODD_146": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00146++"
+   ],
+   "DODD_154": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "DODD_162": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00162++"
+   ],
+   "DODD_167": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00167++"
+   ],
+   "DODD_175": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00175++"
+   ],
+   "DODD_178": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00178++"
+   ],
+   "MS_5117": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "MS_5127": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05127++"
+   ],
+   "MS_5137": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05137++"
+   ],
+   "MS_5138": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05138++"
+   ],
+   "MS_5200": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05200++"
+   ],
+   "MS_5233": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05233++"
+   ],
+   "MS_6221": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06221++"
+   ],
+   "MS_6229": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06229++"
+   ],
+   "MS_6627": [
+    "4:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PAB_1434A": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ],
+   "PAB_2748": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++02748++"
+   ],
+   "PUB_AFF_1222": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1264": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_1323": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_1329": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01329++"
+   ],
+   "PUB_AFF_1337": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_1343": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01343++"
+   ],
+   "PUB_AFF_2214": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2238": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2250": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2317": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2319": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02319++"
+   ],
+   "PUB_AFF_2325": [
+    "1:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ],
+   "PUB_AFF_2333": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   },
   "9": {
-   "BOELTER_2760": "1:00:00",
-   "BOELTER_4413": "1:00:00",
-   "BOELTER_5280": "1:00:00",
-   "DODD_121": "1:00:00",
-   "DODD_146": "0:30:00",
-   "DODD_154": "1:00:00",
-   "DODD_162": "0:30:00",
-   "DODD_167": "0:30:00",
-   "MS_5147": "1:00:00",
-   "MS_5203": "1:00:00",
-   "MS_5225": "0:30:00",
-   "MS_6627": "3:00:00",
-   "PUB_AFF_1234": "1:00:00",
-   "PUB_AFF_1264": "0:30:00",
-   "PUB_AFF_1323": "0:30:00",
-   "PUB_AFF_2214": "0:30:00",
-   "PUB_AFF_2232": "2:00:00",
-   "PUB_AFF_2238": "1:00:00",
-   "PUB_AFF_2317": "0:30:00",
-   "PUB_AFF_2325": "0:30:00",
-   "PUB_AFF_2333": "1:00:00"
+   "BOELTER_2760": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++02760++"
+   ],
+   "BOELTER_4413": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++04413++"
+   ],
+   "BOELTER_5280": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05280++"
+   ],
+   "DODD_121": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00121++"
+   ],
+   "DODD_146": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00146++"
+   ],
+   "DODD_154": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "DODD_162": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00162++"
+   ],
+   "DODD_167": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00167++"
+   ],
+   "MS_5147": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05147++"
+   ],
+   "MS_5203": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_5225": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "MS_6627": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PUB_AFF_1234": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1264": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_1323": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_2214": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2232": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ],
+   "PUB_AFF_2238": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2317": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2325": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ],
+   "PUB_AFF_2333": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   },
   "10": {
-   "BOELTER_5440": "1:00:00",
-   "MS_6221": "3:00:00",
-   "MS_6627": "2:00:00",
-   "PUB_AFF_2232": "1:00:00"
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "MS_6221": [
+    "3:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06221++"
+   ],
+   "MS_6627": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PUB_AFF_2232": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02232++"
+   ]
   },
   "11": {
-   "MS_5203": "1:00:00",
-   "MS_6221": "2:00:00",
-   "MS_6627": "1:00:00"
+   "MS_5203": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_6221": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06221++"
+   ],
+   "MS_6627": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ]
   },
   "12": {
-   "BOELTER_5440": "2:00:00",
-   "DODD_154": "1:00:00",
-   "DODD_161": "0:30:00",
-   "DODD_175": "0:30:00",
-   "MS_6221": "1:00:00",
-   "PUB_AFF_1222": "0:30:00",
-   "PUB_AFF_1234": "1:00:00",
-   "PUB_AFF_1246": "1:00:00",
-   "PUB_AFF_1264": "0:30:00",
-   "PUB_AFF_1343": "1:00:00",
-   "PUB_AFF_2250": "0:30:00"
+   "BOELTER_5440": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "DODD_154": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00154++"
+   ],
+   "DODD_161": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00161++"
+   ],
+   "DODD_175": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00175++"
+   ],
+   "MS_6221": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06221++"
+   ],
+   "PUB_AFF_1222": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1264": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_1343": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01343++"
+   ],
+   "PUB_AFF_2250": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ]
   },
   "13": {
-   "BOELTER_5422": "1:00:00",
-   "BOELTER_5440": "1:00:00",
-   "MS_5117": "1:00:00",
-   "PAB_1434A": "1:00:00"
+   "BOELTER_5422": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "MS_5117": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "PAB_1434A": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PAB+++++%7C++01434A+"
+   ]
   },
   "14": {
-   "MS_5137": "1:00:00",
-   "MS_6627": "2:00:00",
-   "PUB_AFF_1264": "1:00:00",
-   "PUB_AFF_2270": "1:00:00",
-   "PUB_AFF_2317": "1:00:00"
+   "MS_5137": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05137++"
+   ],
+   "MS_6627": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PUB_AFF_1264": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01264++"
+   ],
+   "PUB_AFF_2270": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02270++"
+   ],
+   "PUB_AFF_2317": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ]
   },
   "15": {
-   "DODD_178": "1:00:00",
-   "MS_5127": "1:00:00",
-   "MS_6627": "1:00:00",
-   "PUB_AFF_1246": "0:30:00",
-   "PUB_AFF_1337": "1:00:00",
-   "PUB_AFF_2214": "1:00:00"
+   "DODD_178": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00178++"
+   ],
+   "MS_5127": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05127++"
+   ],
+   "MS_6627": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++06627++"
+   ],
+   "PUB_AFF_1246": [
+    "0:30:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1337": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01337++"
+   ],
+   "PUB_AFF_2214": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ]
   },
   "16": {
-   "BOELTER_5252": "1:00:00",
-   "BOELTER_5273": "12:00:00",
-   "BOELTER_5422": "1:00:00",
-   "PUB_AFF_1222": "2:00:00",
-   "PUB_AFF_1234": "2:00:00",
-   "PUB_AFF_2250": "2:00:00",
-   "PUB_AFF_2317": "2:00:00",
-   "PUB_AFF_2325": "2:00:00"
+   "BOELTER_5252": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05252++"
+   ],
+   "BOELTER_5273": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05273++"
+   ],
+   "BOELTER_5422": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05422++"
+   ],
+   "PUB_AFF_1222": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_2250": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2317": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2325": [
+    "2:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ]
   },
   "17": {
-   "BOELTER_5273": "12:00:00",
-   "BOELTER_5440": "1:00:00",
-   "DODD_146": "12:00:00",
-   "DODD_147": "12:00:00",
-   "DODD_175": "12:00:00",
-   "MS_5117": "12:00:00",
-   "MS_5118": "12:00:00",
-   "MS_5127": "12:00:00",
-   "MS_5137": "12:00:00",
-   "MS_5138": "12:00:00",
-   "MS_5147": "12:00:00",
-   "MS_5200": "1:00:00",
-   "MS_5203": "12:00:00",
-   "MS_5225": "12:00:00",
-   "MS_5233": "12:00:00",
-   "PUB_AFF_1222": "1:00:00",
-   "PUB_AFF_1234": "1:00:00",
-   "PUB_AFF_1246": "1:00:00",
-   "PUB_AFF_1256": "1:00:00",
-   "PUB_AFF_1323": "1:00:00",
-   "PUB_AFF_2214": "1:00:00",
-   "PUB_AFF_2238": "1:00:00",
-   "PUB_AFF_2250": "1:00:00",
-   "PUB_AFF_2317": "1:00:00",
-   "PUB_AFF_2325": "1:00:00",
-   "PUB_AFF_2333": "1:00:00"
+   "BOELTER_5273": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05273++"
+   ],
+   "BOELTER_5440": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=BOELTER+%7C++05440++"
+   ],
+   "DODD_146": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00146++"
+   ],
+   "DODD_147": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00147++"
+   ],
+   "DODD_175": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=DODD++++%7C++00175++"
+   ],
+   "MS_5117": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05117++"
+   ],
+   "MS_5118": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05118++"
+   ],
+   "MS_5127": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05127++"
+   ],
+   "MS_5137": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05137++"
+   ],
+   "MS_5138": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05138++"
+   ],
+   "MS_5147": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05147++"
+   ],
+   "MS_5200": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05200++"
+   ],
+   "MS_5203": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05203++"
+   ],
+   "MS_5225": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05225++"
+   ],
+   "MS_5233": [
+    "12:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=MS++++++%7C++05233++"
+   ],
+   "PUB_AFF_1222": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01222++"
+   ],
+   "PUB_AFF_1234": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01234++"
+   ],
+   "PUB_AFF_1246": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01246++"
+   ],
+   "PUB_AFF_1256": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01256++"
+   ],
+   "PUB_AFF_1323": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++01323++"
+   ],
+   "PUB_AFF_2214": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02214++"
+   ],
+   "PUB_AFF_2238": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02238++"
+   ],
+   "PUB_AFF_2250": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02250++"
+   ],
+   "PUB_AFF_2317": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02317++"
+   ],
+   "PUB_AFF_2325": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02325++"
+   ],
+   "PUB_AFF_2333": [
+    "1:00:00",
+    "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom=PUB+AFF+%7C++02333++"
+   ]
   }
  }
 }

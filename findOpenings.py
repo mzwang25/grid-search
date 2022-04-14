@@ -1,6 +1,7 @@
 import json
 from datetime import datetime
 from os import listdir
+from makeUrlAndPullClassData import getClassLinks
 
 # day is a single char ... MTWRF
 def filterByDayInWeek( jsonObj, day ):
@@ -74,6 +75,14 @@ if __name__ == "__main__":
                       12 : {}, 13 : {}, 14 : {}, 15 : {},
                       16 : {}, 17 : {} }
 
+  fileFormatted = [ "" ] * len( files )
+  for i in range( 0, len( files ) ):
+    cp = files[ i ]
+    fileFormatted[ i ] = cp[ 0 : -5 ].replace( '_', ' ' )
+
+  classLinks = getClassLinks( fileFormatted ) 
+  classLinkPrefix = "https://sa.ucla.edu/ro/Public/SOC/Results/ClassroomDetail?term=22S&classroom="
+
   for i in range( 0, len( files ) ):
     for day in [ "M", "T", "W", "R", "F" ]:
       for hr in range( 8, 18 ):
@@ -82,7 +91,7 @@ if __name__ == "__main__":
                               str( hr ) + ":00:00" )
         resultArr = result.split( ' ' )
         if ( resultArr[ 0 ] == 'AVAIL' ):
-          schedule[ day ][ hr ][ files[ i ][ : -5 ] ] = resultArr[ 1 ]
+          schedule[ day ][ hr ][ files[ i ][ : -5 ] ] = [ resultArr[ 1 ], classLinkPrefix + classLinks[ i ] ]
 
   print( json.dumps( schedule, indent=1, sort_keys=True ) )
   
